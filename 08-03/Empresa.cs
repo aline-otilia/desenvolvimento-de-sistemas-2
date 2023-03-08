@@ -10,6 +10,8 @@ namespace refatoracao.R12.ExtractClass.antes
         {
             RazaoSocial = razaoSocial;
             CNPJ = cnpj;
+            EnderecoEntrega = enderecoComercial;
+            EnderecoComercial = enderecoEntrega;
         }
 
         public RazaoSocial RazaoSocial { get; private set; }
