@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace refatoracao.R12.ExtractClass.antes
+namespace refatoracao.R12.ExtractClass.depois
 {
     class Empresa
     {
